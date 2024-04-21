@@ -1,9 +1,6 @@
 pyrogram
 wget
 aiohttp
-yt-dlp
--e git+git://github.com/ytdl-org/youtube-dl.git#egg=youtube-dl
--e git+git://github.com/sqlalchemy/sqlalchemy.git#egg=sqlalchemy
 clang
 python-dotenv
 TgCrypto
